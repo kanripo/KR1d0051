@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀禮通考
-#+DATE: 2015-09-23 09:38:00
-#+PROPERTY: JUAN 97
+#+DATE: 2015-08-24 22:09:54.958255
+#+PROPERTY: ID KR1d0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十七
 <pb:KR1d0051_WYG_097-1a>¶
 欽定四庫全書¶
 　讀禮通考巻九十七　　刑部尚書徐乾學撰¶
@@ -418,4 +420,3 @@
 　(弟用石壙已復土亦深悔之向日魏冰叔來毘陵見/其灰椁紀事論灰土及石蓋大人深辨且戒文言等)¶
 　(宜慎今閱此冰叔數條/偶憶其事謹附識於末)¶
 　讀禮通考卷九十七¶
-

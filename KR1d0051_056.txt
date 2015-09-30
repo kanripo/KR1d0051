@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀禮通考
-#+DATE: 2015-09-23 09:38:00
-#+PROPERTY: JUAN 56
+#+DATE: 2015-08-24 22:09:53.889336
+#+PROPERTY: ID KR1d0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十六
 <pb:KR1d0051_WYG_056-1a>¶
 欽定四庫全書¶
 　讀禮通考卷五十六　　刑部尚書徐乾學撰¶
@@ -757,6 +759,7 @@
 　　　　親固猶然在目也是亦見似目瞿之義也謂¶
 　　　　非人子之至情哉奈何其欲去之也愚故曰¶
 　　　　當揆之於人情而已¶
+#+PROPERTY: JUAN 卷五十六補遺
 <pb:KR1d0051_WYG_056-47a>¶
 　讀禮通考卷五十六補遺¶
 　　　神主¶
@@ -829,4 +832,3 @@
 　¶
 　¶
 　讀禮通考巻五十六¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀禮通考
-#+DATE: 2015-09-23 09:38:00
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:09:52.866249
+#+PROPERTY: ID KR1d0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1d0051_WYG_010-1a>¶
 欽定四庫全書¶
 　讀禮通考卷十　　　　刑部尚書徐乾學撰¶
@@ -689,4 +691,3 @@
 <pb:KR1d0051_WYG_010-39a>¶
 　　謹案卷九第十八頁後二行繼别為宗刋本宗上¶
 　　　衍大字據小記刪¶
-

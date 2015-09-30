@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀禮通考
-#+DATE: 2015-09-23 09:38:00
-#+PROPERTY: JUAN 24
+#+DATE: 2015-08-24 22:09:53.199456
+#+PROPERTY: ID KR1d0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十四
 <pb:KR1d0051_WYG_024-1a>¶
 欽定四庫全書¶
 　讀禮通考卷二十四　　刑部尚書徐乾學撰¶
@@ -632,4 +634,3 @@
 　¶
 　¶
 　讀禮通考卷二十四¶
-

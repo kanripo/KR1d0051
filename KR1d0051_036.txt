@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀禮通考
-#+DATE: 2015-09-23 09:38:00
-#+PROPERTY: JUAN 36
+#+DATE: 2015-08-24 22:09:53.447294
+#+PROPERTY: ID KR1d0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十六
 <pb:KR1d0051_WYG_036-1a>¶
 欽定四庫全書¶
 　讀禮通考卷三十六　　刑部尚書徐乾學撰¶
@@ -177,4 +179,3 @@
 　　　　衰七升緫八升此被出之女亦與之同也勉¶
 　　　　齋序次諸受服皆從此推出¶
 　讀禮通考卷三十六¶
-

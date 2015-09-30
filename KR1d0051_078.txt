@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀禮通考
-#+DATE: 2015-09-23 09:38:00
-#+PROPERTY: JUAN 78
+#+DATE: 2015-08-24 22:09:54.441847
+#+PROPERTY: ID KR1d0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十八
 <pb:KR1d0051_WYG_078-1a>¶
 欽定四庫全書¶
 　讀禮通考卷七十八　　刑部尚書徐乾學撰¶
@@ -686,4 +688,3 @@
 阿尼哥傳阿尼哥善畫塑及鑄金為像凡兩京寺觀之¶
 像多出其手原廟列聖御容織錦為之圖畫弗及也¶
 　讀禮通考卷七十八¶
-
